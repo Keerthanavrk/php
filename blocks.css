@@ -1,6 +1,6 @@
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background-color: #fcf2f2;
+    background-color: #fefefe;
 }
 * {
 	box-sizing: border-box;
@@ -43,7 +43,5 @@ body {
 }
 #link {
 	text-align:center;
-}
-a:hover {
-	color:#333;
+	color:#354eb1;
 }
