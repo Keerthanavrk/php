@@ -59,7 +59,7 @@ $result = check($computer, $human);
 <!DOCTYPE html>
 <html>
 <head>
-<title>Dr. Chuck's Rock, Paper, Scissors Game</title>
+<title>Keerthana R 527806cc</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
