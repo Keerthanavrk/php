@@ -43,7 +43,7 @@ if ( isset($_POST['who']) && isset($_POST['pass']) ) {
 // not equals would work here...
 if ( $failure !== false ) {
     // Look closely at the use of single and double quotes
-    echo('<p style="color: red;">'.htmlentities($failure)."</p>\n");
+    echo('<p style="color: red;'>);
 }
 ?>
 <form method="POST">
